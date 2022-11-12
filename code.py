@@ -8,7 +8,7 @@ r=s.Recognizer()
 root = tkinter.Tk()
 root.title("...Speech__to__Text...")
 root.geometry("960x540")
-img=PhotoImage(file="D:\\downloads\\back.png")
+img=PhotoImage(file="D:\\downloads\\back.png")                      # give own path of back.png image 
 frame=Label(root,image=img)
 frame.place(x=0,y=0)
 
@@ -78,10 +78,10 @@ def translate_text(Text):
                 lab2['text']=lang2.text
 
 
-micimg=PhotoImage(file="D:\\downloads\\1232.png")
+micimg=PhotoImage(file="D:\\downloads\\1232.png")                              # give own path of 1232.png image 
 button=Button(root,image=micimg,bg='#ffde59',bd=0,command =lambda:play1())
 button.place(x=190,y=120)
-exitimg=PhotoImage(file="D:\\downloads\\log.png")
+exitimg=PhotoImage(file="D:\\downloads\\log.png")                              # give own path of log.png image 
 button2=Button(root,image=exitimg,bg="#ffcc00",bd=0,command=root.destroy)
 button2.place(x=700,y=425)
 root.mainloop()
