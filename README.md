@@ -25,3 +25,7 @@ Then click on speak button and start to speak the sentence after that speak the 
 Some sample of output : 
 
 
+![4 JPEG](https://github.com/surya-1312/voice-to-text_and_language_translator/assets/114898448/894c0fcb-ca7f-46c8-a0cf-da80b412f1e2)
+
+![3](https://github.com/surya-1312/voice-to-text_and_language_translator/assets/114898448/702c5e87-9904-4b2a-a4fe-9762b74fa83e)
+
