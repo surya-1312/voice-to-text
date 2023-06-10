@@ -1,8 +1,10 @@
 # voice-to-text
 It convert your voice in any language and then give output in translated text.
 
-Installation part : 
+Installation part :
+
 some python library to install for run this project: 
+
 Step 1- Run These command in your terminal-    
 1. pip install tk
 2. pip install SpeechRecognition
