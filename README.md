@@ -2,7 +2,7 @@
 
 This project is used to convert your voice into any language and then give output in translated text.
 
-**Setup and Installation part :
+**Setup and Installation part :**
 
 some python libraries to install for run this project:
 
@@ -22,7 +22,7 @@ After the competition of setup and installation part run the code.
 Then click on speak button and start to speak the sentence after that speak the language name in which you want to translate the sentence.
 
 
-**Some sample of output** : 
+**Some sample of output:** 
 
 
 ![4 JPEG](https://github.com/surya-1312/voice-to-text_and_language_translator/assets/114898448/894c0fcb-ca7f-46c8-a0cf-da80b412f1e2)
